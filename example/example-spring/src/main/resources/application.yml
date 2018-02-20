@@ -3,6 +3,8 @@ spring:
     active:
       - izanamiProd
       - dev
+frontend:
+  type: "ANGULAR"
 leveldb:
   path: "leveldb/datas"
 betaserie:
